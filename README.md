@@ -20,13 +20,13 @@ My specialties include problem solving, website optimization, MVC code organizat
 ### Personal stuff:
 
 - 🛠 &nbsp; I’m currently working with PHP, Laravel, Python, Django, MySQL, PostgreSQL, etc.
-- 🚀 &nbsp; I’m currently full-time Sowtware Developer at [Omnitask](https://omnitask.ba).
+- 🚀 &nbsp; I’m currently a full-time Sowtware Developer at [Omnitask](https://omnitask.ba).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/zlatangoralija).
 - 📫 &nbsp; How to reach me: <a href="mailto:goralijazlatan@gmail.com">goralijazlatan@gmail.com</a>.
 
 ### Free time:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
