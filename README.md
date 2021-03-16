@@ -47,8 +47,8 @@ My specialties include problem solving, website optimization, MVC code organizat
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="postgresql" width="140" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="110" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="css" width="140" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="js" width="110" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="jquery" width="110" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="js" width="130" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg" alt="jquery" width="130" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" width="110" height="55"/>
 </p>
 
