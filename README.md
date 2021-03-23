@@ -17,14 +17,14 @@ My specialties include problem solving, website optimization, MVC code organizat
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### Personal stuff:
+### 👨🏻‍💻 Personal stuff:
 
 - 🛠 &nbsp; I’m currently working with PHP, Laravel, Python, Django, MySQL, PostgreSQL, etc.
 - 🚀 &nbsp; I’m currently a full-time Sowtware Developer at [Omnitask](https://omnitask.ba).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/zlatangoralija).
 - 📫 &nbsp; How to reach me: <a href="mailto:goralijazlatan@gmail.com">goralijazlatan@gmail.com</a>.
 
-### Free time:
+### ⏳ Free time:
 
 - 💻 &nbsp; I love exploring new tech stacks and building cool stuff.
 - 📰 &nbsp; Reading tech blogs whenever possible.
@@ -32,7 +32,7 @@ My specialties include problem solving, website optimization, MVC code organizat
 
 <hr>
 
-### Technologies:
+### 🛠 Technologies:
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="110" height="65"/>
@@ -54,7 +54,7 @@ My specialties include problem solving, website optimization, MVC code organizat
 
 <br>
 
-### GitHub stats:
+### 📊 GitHub stats:
 
 <p align=center>
   <a href="https://github.com/zlatangoralija/zlatangoralija" title="Go to Source">
