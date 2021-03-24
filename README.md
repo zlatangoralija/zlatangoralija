@@ -64,7 +64,8 @@ My specialties include problem solving, website optimization, MVC code organizat
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlatangoralija&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
   
-  
-<img alt="zlatangoralija's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zlatangoralija&bg_color=0D1117&color=258f76&line=258f76&point=FFFFFF&hide_border=true" />
-
 </p>
+
+<!---
+<img alt="zlatangoralija's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zlatangoralija&bg_color=0D1117&color=258f76&line=258f76&point=FFFFFF&hide_border=true" />
+--->
