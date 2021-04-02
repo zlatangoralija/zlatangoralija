@@ -15,7 +15,7 @@ My specialties include problem solving, website optimization, MVC code organizat
 
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ### 👨🏻‍💻 Personal stuff:
 
