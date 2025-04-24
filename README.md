@@ -19,14 +19,14 @@ Proficient in PHP and Python, I work extensively with frameworks such as Laravel
 
 ### 👨🏻‍💻 Personal stuff:
 
-- 🚀 &nbsp; Full-time Sowtware Developer at [Omnitask](https://omnitask.ba).
+- 🚀 &nbsp; Full-time Software Developer at [Omnitask](https://omnitask.ba).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/zlatangoralija).
 - 📫 &nbsp; How to reach me: <a href="mailto:goralijazlatan@gmail.com">goralijazlatan@gmail.com</a>.
 
 ### 🛠 Technologies:
 
 - 🧑‍💻 &nbsp; PHP, Python, SQL, Javascript
-- ⚙️ &nbsp; Laravel, Livewire, Django, Flask, Airflow, React, Vue
+- ⚙️ &nbsp; Laravel, Livewire, Django, Flask, React, Vue
 - 📈 &nbsp; MySQL, PostgreSQL, SQLite
 - ☁️ &nbsp; DigitalOcean, AWS
 
